@@ -1,0 +1,92 @@
+(ExpressProject "Teste Pan"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\discrete.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\teste pan.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File "C:\MEUS DOCUMENTOS\PROJETOS\TESTE PAN.DRC")
+    (Netlist_TAB "5")
+    (LAYOUT_Netlist_File "C:\MEUS DOCUMENTOS\PROJETOS\TESTE PAN.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0"))
+  (Folder "Outputs"
+    (File ".\teste pan.drc"
+      (Type "Report"))
+    (File ".\teste pan.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (LastUsedLibraryBrowseDirectory "C:\Program Files\OrCAD\CAPTURE\LIBRARY")
+  (PartMRUSelector
+    ("T POINT S"
+      (FullPartName "T POINT S.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\OLDLIBS\LAYOUT.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\OLDLIBS\LAYOUT.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\OLDLIBS\LAYOUT.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\OLDLIBS\LAYOUT.OLB")
+      (DeviceIndex "0"))
+    (LAMP
+      (FullPartName "LAMP.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\OLDLIBS\LAYOUT.OLB")
+      (DeviceIndex "0"))
+    ("CONN PCB 2"
+      (FullPartName "CONN PCB 2.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (BC548
+      (FullPartName "BC548.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\OLDLIBS\MOTO4.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\OLDLIBS\LAYOUT.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\discrete.olb")
+      (Path "Outputs")
+      (Select "Design Resources" "Library"
+         "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\discrete.olb" "1N6288CA"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 484 684 103 432"))
+      (Tab 0))))

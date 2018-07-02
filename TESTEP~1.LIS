@@ -1,0 +1,111 @@
+Post Processor Report
+OrCAD FILE: C:\MEUS DOCUMENTOS\PROJETOS\TESTE PAN.MAX
+Thu Mar 22 01:20:25 2001
+
+*********************************************************
+
+Output file: C:\MEUS DOCUMENTOS\PROJETOS\TESTE PAN.BOT
+
+Aperture totals for C:\MEUS DOCUMENTOS\PROJETOS\TESTE PAN.BOT:
+---------------------------------------------------------
+D10:  0.0550 ROUND  --       0 Draws,       8 Flashes
+D11:  0.0520 ROUND  --       0 Draws,       6 Flashes
+D12:  0.0620 ROUND  --       0 Draws,       4 Flashes
+D13:  0.0620 SQUARE --       0 Draws,       4 Flashes
+D14:  0.0550 SQUARE --       0 Draws,       1 Flashes
+D15:  0.0490 ROUND  --       0 Draws,       2 Flashes
+D16:  0.0490 SQUARE --       0 Draws,       1 Flashes
+---------------------------------------------------------
+  7 D-Codes      -----       0 Draws,      26 Flashes
+
+*********************************************************
+
+Output file: C:\MEUS DOCUMENTOS\PROJETOS\TESTE PAN.SMT
+
+Aperture totals for C:\MEUS DOCUMENTOS\PROJETOS\TESTE PAN.SMT:
+---------------------------------------------------------
+D10:  0.0550 ROUND  --       0 Draws,       8 Flashes
+D11:  0.0520 ROUND  --       0 Draws,       6 Flashes
+D12:  0.0620 ROUND  --       0 Draws,       4 Flashes
+D13:  0.0620 SQUARE --       0 Draws,       4 Flashes
+D14:  0.0550 SQUARE --       0 Draws,       1 Flashes
+D15:  0.0490 ROUND  --       0 Draws,       2 Flashes
+D16:  0.0490 SQUARE --       0 Draws,       1 Flashes
+---------------------------------------------------------
+  7 D-Codes      -----       0 Draws,      26 Flashes
+
+*********************************************************
+
+Output file: C:\MEUS DOCUMENTOS\PROJETOS\TESTE PAN.SMB
+
+Aperture totals for C:\MEUS DOCUMENTOS\PROJETOS\TESTE PAN.SMB:
+---------------------------------------------------------
+D10:  0.0550 ROUND  --       0 Draws,       8 Flashes
+D11:  0.0520 ROUND  --       0 Draws,       6 Flashes
+D12:  0.0620 ROUND  --       0 Draws,       4 Flashes
+D13:  0.0620 SQUARE --       0 Draws,       4 Flashes
+D14:  0.0550 SQUARE --       0 Draws,       1 Flashes
+D15:  0.0490 ROUND  --       0 Draws,       2 Flashes
+D16:  0.0490 SQUARE --       0 Draws,       1 Flashes
+---------------------------------------------------------
+  7 D-Codes      -----       0 Draws,      26 Flashes
+
+*********************************************************
+
+Output file: C:\MEUS DOCUMENTOS\PROJETOS\TESTE PAN.SST
+
+Aperture totals for C:\MEUS DOCUMENTOS\PROJETOS\TESTE PAN.SST:
+---------------------------------------------------------
+D17:  0.0080 ROUND  --     255 Draws,       0 Flashes
+---------------------------------------------------------
+  1 D-Codes      -----     255 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: C:\MEUS DOCUMENTOS\PROJETOS\TESTE PAN.AST
+
+Aperture totals for C:\MEUS DOCUMENTOS\PROJETOS\TESTE PAN.AST:
+---------------------------------------------------------
+D10:  0.0550 ROUND  --       0 Draws,       8 Flashes
+D11:  0.0520 ROUND  --       0 Draws,       6 Flashes
+D12:  0.0620 ROUND  --       0 Draws,       4 Flashes
+D13:  0.0620 SQUARE --       0 Draws,       4 Flashes
+D14:  0.0550 SQUARE --       0 Draws,       1 Flashes
+D15:  0.0490 ROUND  --       0 Draws,       2 Flashes
+D16:  0.0490 SQUARE --       0 Draws,       1 Flashes
+D17:  0.0080 ROUND  --     580 Draws,       0 Flashes
+D18:  0.0500 ROUND  --       6 Draws,       0 Flashes
+---------------------------------------------------------
+  9 D-Codes      -----     586 Draws,      26 Flashes
+
+*********************************************************
+
+Output file: C:\MEUS DOCUMENTOS\PROJETOS\TESTE PAN.DRD
+
+Aperture totals for C:\MEUS DOCUMENTOS\PROJETOS\TESTE PAN.DRD:
+---------------------------------------------------------
+D18:  0.0500 ROUND  --       6 Draws,       0 Flashes
+D19:  0.0100 ROUND  --     540 Draws,       0 Flashes
+---------------------------------------------------------
+  2 D-Codes      -----     546 Draws,       0 Flashes
+
+
+*********************************************************
+
+Aperture totals for entire project:
+---------------------------------------------------------
+D10:  0.0550 ROUND  --       0 Draws,      32 Flashes
+D11:  0.0520 ROUND  --       0 Draws,      24 Flashes
+D12:  0.0620 ROUND  --       0 Draws,      16 Flashes
+D13:  0.0620 SQUARE --       0 Draws,      16 Flashes
+D14:  0.0550 SQUARE --       0 Draws,       4 Flashes
+D15:  0.0490 ROUND  --       0 Draws,       8 Flashes
+D16:  0.0490 SQUARE --       0 Draws,       4 Flashes
+D17:  0.0080 ROUND  --     835 Draws,       0 Flashes
+D18:  0.0500 ROUND  --      12 Draws,       0 Flashes
+D19:  0.0100 ROUND  --     540 Draws,       0 Flashes
+---------------------------------------------------------
+ 10 D-Codes      -----    1387 Draws,     104 Flashes
+
+
+No warnings or errors.

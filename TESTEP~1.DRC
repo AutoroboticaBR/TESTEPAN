@@ -1,0 +1,15 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Nets
+
+Checking for Invalid References
+[DRC0011]  Reference is invalid for this part 470R
+                    SCHEMATIC1, PAGE1  (78.74, 40.64) 
+
+Checking for Duplicate References
